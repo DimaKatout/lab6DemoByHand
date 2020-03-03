@@ -1,3 +1,4 @@
+
 //we can access anything in the Dom by document
 /*
  id="kittenProfiles
